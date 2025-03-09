@@ -92,7 +92,7 @@ class _indexPageState extends State<indexPage> {
               Center(
                   child: Padding(
                     padding: const EdgeInsets.all(50.0),
-                      child: Image.asset('logo.png'),
+                      child: Image.asset('assets/logo.png'),
                   )
               )
             ]
